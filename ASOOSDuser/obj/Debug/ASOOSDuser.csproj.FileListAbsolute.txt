@@ -1,0 +1,12 @@
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\ASOOSDuser\ASOOSDuser\bin\Debug\ASOOSDuser.exe.config
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\ASOOSDuser\ASOOSDuser\bin\Debug\ASOOSDuser.exe
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\ASOOSDuser\ASOOSDuser\bin\Debug\ASOOSDuser.pdb
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\ASOOSDuser\ASOOSDuser\obj\Debug\ASOOSDuser.Properties.Resources.resources
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\ASOOSDuser\ASOOSDuser\obj\Debug\ASOOSDuser.csproj.GenerateResource.Cache
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\ASOOSDuser\ASOOSDuser\obj\Debug\ASOOSDuser.exe
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\ASOOSDuser\ASOOSDuser\obj\Debug\ASOOSDuser.pdb
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\ASOOSDuser\ASOOSDuser\obj\Debug\ASOOSDuser.ASOOSDuser.resources
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\ASOOSDuser\ASOOSDuser\obj\Debug\ASOOSDuser.InfoForm.resources
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\ASOOSDuser\ASOOSDuser\obj\Debug\ASOOSDuser.RoleForm.resources
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\ASOOSDuser\ASOOSDuser\obj\Debug\ASOOSDuser.csproj.AssemblyReference.cache
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\ASOOSDuser\ASOOSDuser\obj\Debug\ASOOSDuser.csproj.CoreCompileInputs.cache
